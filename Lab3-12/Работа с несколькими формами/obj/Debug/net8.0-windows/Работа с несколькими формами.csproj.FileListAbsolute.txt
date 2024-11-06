@@ -1,0 +1,36 @@
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа_с_несколькими_формами.Form1.resources
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа_с_несколькими_формами.Form2.resources
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа_с_несколькими_формами.Form3.resources
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.csproj.GenerateResource.cache
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.AssemblyInfoInputs.cache
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.AssemblyInfo.cs
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.csproj.CoreCompileInputs.cache
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\bin\Debug\net8.0-windows\Работа с несколькими формами.exe
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\bin\Debug\net8.0-windows\Работа с несколькими формами.deps.json
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\bin\Debug\net8.0-windows\Работа с несколькими формами.runtimeconfig.json
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\bin\Debug\net8.0-windows\Работа с несколькими формами.dll
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\bin\Debug\net8.0-windows\Работа с несколькими формами.pdb
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.dll
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\refint\Работа с несколькими формами.dll
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.pdb
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.genruntimeconfig.cache
+D:\ВУЗ\VS Irina\Работа с несколькими формами\Работа с несколькими формами\obj\Debug\net8.0-windows\ref\Работа с несколькими формами.dll
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\bin\Debug\net8.0-windows\Работа с несколькими формами.exe
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\bin\Debug\net8.0-windows\Работа с несколькими формами.deps.json
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\bin\Debug\net8.0-windows\Работа с несколькими формами.runtimeconfig.json
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\bin\Debug\net8.0-windows\Работа с несколькими формами.dll
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\bin\Debug\net8.0-windows\Работа с несколькими формами.pdb
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа_с_несколькими_формами.Form1.resources
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа_с_несколькими_формами.Form2.resources
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа_с_несколькими_формами.Form3.resources
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.csproj.GenerateResource.cache
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.AssemblyInfoInputs.cache
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.AssemblyInfo.cs
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.csproj.CoreCompileInputs.cache
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.dll
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\refint\Работа с несколькими формами.dll
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.pdb
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\Работа с несколькими формами.genruntimeconfig.cache
+C:\Users\Enoteg\source\repos\Lab3-12\Работа с несколькими формами\obj\Debug\net8.0-windows\ref\Работа с несколькими формами.dll

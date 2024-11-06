@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\bin\Debug\net8.0-windows\Поиск элемента.exe
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\bin\Debug\net8.0-windows\Поиск элемента.deps.json
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\bin\Debug\net8.0-windows\Поиск элемента.runtimeconfig.json
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\bin\Debug\net8.0-windows\Поиск элемента.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\bin\Debug\net8.0-windows\Поиск элемента.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\obj\Debug\net8.0-windows\Поиск_элемента.Form1.resources
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\obj\Debug\net8.0-windows\Поиск элемента.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\obj\Debug\net8.0-windows\Поиск элемента.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\obj\Debug\net8.0-windows\Поиск элемента.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\obj\Debug\net8.0-windows\Поиск элемента.AssemblyInfo.cs
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\obj\Debug\net8.0-windows\Поиск элемента.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\obj\Debug\net8.0-windows\Поиск элемента.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\obj\Debug\net8.0-windows\refint\Поиск элемента.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\obj\Debug\net8.0-windows\Поиск элемента.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\obj\Debug\net8.0-windows\Поиск элемента.genruntimeconfig.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Поиск элемента\Поиск элемента\obj\Debug\net8.0-windows\ref\Поиск элемента.dll

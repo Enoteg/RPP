@@ -1,0 +1,32 @@
+D:\ВУЗ\VS Irina\Тест\Тест\bin\Debug\net8.0-windows\Тест.exe
+D:\ВУЗ\VS Irina\Тест\Тест\bin\Debug\net8.0-windows\Тест.deps.json
+D:\ВУЗ\VS Irina\Тест\Тест\bin\Debug\net8.0-windows\Тест.runtimeconfig.json
+D:\ВУЗ\VS Irina\Тест\Тест\bin\Debug\net8.0-windows\Тест.dll
+D:\ВУЗ\VS Irina\Тест\Тест\bin\Debug\net8.0-windows\Тест.pdb
+D:\ВУЗ\VS Irina\Тест\Тест\obj\Debug\net8.0-windows\Тест.Form1.resources
+D:\ВУЗ\VS Irina\Тест\Тест\obj\Debug\net8.0-windows\Тест.csproj.GenerateResource.cache
+D:\ВУЗ\VS Irina\Тест\Тест\obj\Debug\net8.0-windows\Тест.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\VS Irina\Тест\Тест\obj\Debug\net8.0-windows\Тест.AssemblyInfoInputs.cache
+D:\ВУЗ\VS Irina\Тест\Тест\obj\Debug\net8.0-windows\Тест.AssemblyInfo.cs
+D:\ВУЗ\VS Irina\Тест\Тест\obj\Debug\net8.0-windows\Тест.csproj.CoreCompileInputs.cache
+D:\ВУЗ\VS Irina\Тест\Тест\obj\Debug\net8.0-windows\Тест.dll
+D:\ВУЗ\VS Irina\Тест\Тест\obj\Debug\net8.0-windows\refint\Тест.dll
+D:\ВУЗ\VS Irina\Тест\Тест\obj\Debug\net8.0-windows\Тест.pdb
+D:\ВУЗ\VS Irina\Тест\Тест\obj\Debug\net8.0-windows\Тест.genruntimeconfig.cache
+D:\ВУЗ\VS Irina\Тест\Тест\obj\Debug\net8.0-windows\ref\Тест.dll
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\bin\Debug\net8.0-windows\Тест.exe
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\bin\Debug\net8.0-windows\Тест.deps.json
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\bin\Debug\net8.0-windows\Тест.runtimeconfig.json
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\bin\Debug\net8.0-windows\Тест.dll
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\bin\Debug\net8.0-windows\Тест.pdb
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\obj\Debug\net8.0-windows\Тест.Form1.resources
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\obj\Debug\net8.0-windows\Тест.csproj.GenerateResource.cache
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\obj\Debug\net8.0-windows\Тест.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\obj\Debug\net8.0-windows\Тест.AssemblyInfoInputs.cache
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\obj\Debug\net8.0-windows\Тест.AssemblyInfo.cs
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\obj\Debug\net8.0-windows\Тест.csproj.CoreCompileInputs.cache
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\obj\Debug\net8.0-windows\Тест.dll
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\obj\Debug\net8.0-windows\refint\Тест.dll
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\obj\Debug\net8.0-windows\Тест.pdb
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\obj\Debug\net8.0-windows\Тест.genruntimeconfig.cache
+C:\Users\Enoteg\source\repos\Lab3-11\Тест\obj\Debug\net8.0-windows\ref\Тест.dll

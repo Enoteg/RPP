@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\bin\Debug\net8.0-windows\Определитель матрицы.exe
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\bin\Debug\net8.0-windows\Определитель матрицы.deps.json
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\bin\Debug\net8.0-windows\Определитель матрицы.runtimeconfig.json
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\bin\Debug\net8.0-windows\Определитель матрицы.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\bin\Debug\net8.0-windows\Определитель матрицы.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\obj\Debug\net8.0-windows\Определитель_матрицы.Form1.resources
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\obj\Debug\net8.0-windows\Определитель матрицы.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\obj\Debug\net8.0-windows\Определитель матрицы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\obj\Debug\net8.0-windows\Определитель матрицы.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\obj\Debug\net8.0-windows\Определитель матрицы.AssemblyInfo.cs
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\obj\Debug\net8.0-windows\Определитель матрицы.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\obj\Debug\net8.0-windows\Определитель матрицы.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\obj\Debug\net8.0-windows\refint\Определитель матрицы.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\obj\Debug\net8.0-windows\Определитель матрицы.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\obj\Debug\net8.0-windows\Определитель матрицы.genruntimeconfig.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Определитель матрицы\Определитель матрицы\obj\Debug\net8.0-windows\ref\Определитель матрицы.dll

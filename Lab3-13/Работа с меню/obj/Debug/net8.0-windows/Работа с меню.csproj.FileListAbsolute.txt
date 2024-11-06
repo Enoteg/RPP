@@ -1,0 +1,36 @@
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\bin\Debug\net8.0-windows\Работа с меню.exe
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\bin\Debug\net8.0-windows\Работа с меню.deps.json
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\bin\Debug\net8.0-windows\Работа с меню.runtimeconfig.json
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\bin\Debug\net8.0-windows\Работа с меню.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\bin\Debug\net8.0-windows\Работа с меню.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\Работа_с_меню.Form1.resources
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\Работа_с_меню.Form2.resources
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\Работа_с_меню.Form3.resources
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.AssemblyInfo.cs
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\refint\Работа с меню.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.genruntimeconfig.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Работа с меню\Работа с меню\obj\Debug\net8.0-windows\ref\Работа с меню.dll
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\bin\Debug\net8.0-windows\Работа с меню.exe
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\bin\Debug\net8.0-windows\Работа с меню.deps.json
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\bin\Debug\net8.0-windows\Работа с меню.runtimeconfig.json
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\bin\Debug\net8.0-windows\Работа с меню.dll
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\bin\Debug\net8.0-windows\Работа с меню.pdb
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\Работа_с_меню.Form1.resources
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\Работа_с_меню.Form2.resources
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\Работа_с_меню.Form3.resources
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.csproj.GenerateResource.cache
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.AssemblyInfoInputs.cache
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.AssemblyInfo.cs
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.csproj.CoreCompileInputs.cache
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.dll
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\refint\Работа с меню.dll
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.pdb
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\Работа с меню.genruntimeconfig.cache
+C:\Users\Enoteg\source\repos\Lab3-13\Работа с меню\obj\Debug\net8.0-windows\ref\Работа с меню.dll

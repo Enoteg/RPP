@@ -1,0 +1,14 @@
+C:\Users\Enoteg\source\repos\FracArray\FracArray\obj\Debug\net8.0\FracArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enoteg\source\repos\FracArray\FracArray\obj\Debug\net8.0\FracArray.AssemblyInfoInputs.cache
+C:\Users\Enoteg\source\repos\FracArray\FracArray\obj\Debug\net8.0\FracArray.AssemblyInfo.cs
+C:\Users\Enoteg\source\repos\FracArray\FracArray\obj\Debug\net8.0\FracArray.csproj.CoreCompileInputs.cache
+C:\Users\Enoteg\source\repos\FracArray\FracArray\bin\Debug\net8.0\FracArray.exe
+C:\Users\Enoteg\source\repos\FracArray\FracArray\bin\Debug\net8.0\FracArray.deps.json
+C:\Users\Enoteg\source\repos\FracArray\FracArray\bin\Debug\net8.0\FracArray.runtimeconfig.json
+C:\Users\Enoteg\source\repos\FracArray\FracArray\bin\Debug\net8.0\FracArray.dll
+C:\Users\Enoteg\source\repos\FracArray\FracArray\bin\Debug\net8.0\FracArray.pdb
+C:\Users\Enoteg\source\repos\FracArray\FracArray\obj\Debug\net8.0\FracArray.dll
+C:\Users\Enoteg\source\repos\FracArray\FracArray\obj\Debug\net8.0\refint\FracArray.dll
+C:\Users\Enoteg\source\repos\FracArray\FracArray\obj\Debug\net8.0\FracArray.pdb
+C:\Users\Enoteg\source\repos\FracArray\FracArray\obj\Debug\net8.0\FracArray.genruntimeconfig.cache
+C:\Users\Enoteg\source\repos\FracArray\FracArray\obj\Debug\net8.0\ref\FracArray.dll

@@ -1,0 +1,17 @@
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\bin\Debug\net8.0-windows\Lab2Sam2.exe
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\bin\Debug\net8.0-windows\Lab2Sam2.deps.json
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\bin\Debug\net8.0-windows\Lab2Sam2.runtimeconfig.json
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\bin\Debug\net8.0-windows\Lab2Sam2.dll
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\bin\Debug\net8.0-windows\Lab2Sam2.pdb
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\Lab2Sam2.Form1.resources
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\Lab2Sam2.Properties.Resources.resources
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\Lab2Sam2.csproj.GenerateResource.cache
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\Lab2Sam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\Lab2Sam2.AssemblyInfoInputs.cache
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\Lab2Sam2.AssemblyInfo.cs
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\Lab2Sam2.csproj.CoreCompileInputs.cache
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\Lab2Sam2.dll
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\refint\Lab2Sam2.dll
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\Lab2Sam2.pdb
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\Lab2Sam2.genruntimeconfig.cache
+C:\Users\Enoteg\source\repos\Lab2Sam2\Lab2Sam2\obj\Debug\net8.0-windows\ref\Lab2Sam2.dll

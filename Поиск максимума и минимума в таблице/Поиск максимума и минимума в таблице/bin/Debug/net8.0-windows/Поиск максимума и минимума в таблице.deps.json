@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Поиск максимума и минимума в таблице/1.0.0": {
+        "runtime": {
+          "Поиск максимума и минимума в таблице.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Поиск максимума и минимума в таблице/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

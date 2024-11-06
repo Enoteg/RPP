@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enoteg\\source\\repos\\FracArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A441F78-A40A-427D-BA0B-114A63D2A665}|FracArray\\FracArray.csproj|c:\\users\\enoteg\\source\\repos\\fracarray\\fracarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A441F78-A40A-427D-BA0B-114A63D2A665}|FracArray\\FracArray.csproj|solutionrelative:fracarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A441F78-A40A-427D-BA0B-114A63D2A665}|FracArray\\FracArray.csproj|c:\\users\\enoteg\\source\\repos\\fracarray\\fracarray\\fractionarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A441F78-A40A-427D-BA0B-114A63D2A665}|FracArray\\FracArray.csproj|solutionrelative:fracarray\\fractionarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A441F78-A40A-427D-BA0B-114A63D2A665}|FracArray\\FracArray.csproj|c:\\users\\enoteg\\source\\repos\\fracarray\\fracarray\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A441F78-A40A-427D-BA0B-114A63D2A665}|FracArray\\FracArray.csproj|solutionrelative:fracarray\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A441F78-A40A-427D-BA0B-114A63D2A665}|FracArray\\FracArray.csproj|c:\\users\\enoteg\\source\\repos\\fracarray\\fracarray\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A441F78-A40A-427D-BA0B-114A63D2A665}|FracArray\\FracArray.csproj|solutionrelative:fracarray\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fraction.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\source\\repos\\FracArray\\FracArray\\Fraction.cs",
+              "RelativeDocumentMoniker": "FracArray\\Fraction.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\source\\repos\\FracArray\\FracArray\\Fraction.cs*",
+              "RelativeToolTip": "FracArray\\Fraction.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:25:04.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\source\\repos\\FracArray\\FracArray\\Time.cs",
+              "RelativeDocumentMoniker": "FracArray\\Time.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\source\\repos\\FracArray\\FracArray\\Time.cs*",
+              "RelativeToolTip": "FracArray\\Time.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:26:55.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FractionArray.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\source\\repos\\FracArray\\FracArray\\FractionArray.cs",
+              "RelativeDocumentMoniker": "FracArray\\FractionArray.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\source\\repos\\FracArray\\FracArray\\FractionArray.cs*",
+              "RelativeToolTip": "FracArray\\FractionArray.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:25:55.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\source\\repos\\FracArray\\FracArray\\Program.cs",
+              "RelativeDocumentMoniker": "FracArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\source\\repos\\FracArray\\FracArray\\Program.cs*",
+              "RelativeToolTip": "FracArray\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:24:44.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

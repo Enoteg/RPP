@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Определитель матрицы", "Определитель матрицы\Определитель матрицы.csproj", "{5A8BF1C8-D10A-41FA-AB0B-411A3B4C5933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A8BF1C8-D10A-41FA-AB0B-411A3B4C5933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8BF1C8-D10A-41FA-AB0B-411A3B4C5933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8BF1C8-D10A-41FA-AB0B-411A3B4C5933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8BF1C8-D10A-41FA-AB0B-411A3B4C5933}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B84129-D38F-4B7F-B2F7-F1CA64752B9A}
+	EndGlobalSection
+EndGlobal

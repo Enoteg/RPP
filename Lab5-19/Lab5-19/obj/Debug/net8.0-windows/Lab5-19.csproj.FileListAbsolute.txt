@@ -1,0 +1,16 @@
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\obj\Debug\net8.0-windows\Lab5_19.Form1.resources
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\obj\Debug\net8.0-windows\Lab5-19.csproj.GenerateResource.cache
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\obj\Debug\net8.0-windows\Lab5-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\obj\Debug\net8.0-windows\Lab5-19.AssemblyInfoInputs.cache
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\obj\Debug\net8.0-windows\Lab5-19.AssemblyInfo.cs
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\obj\Debug\net8.0-windows\Lab5-19.csproj.CoreCompileInputs.cache
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\bin\Debug\net8.0-windows\Lab5-19.exe
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\bin\Debug\net8.0-windows\Lab5-19.deps.json
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\bin\Debug\net8.0-windows\Lab5-19.runtimeconfig.json
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\bin\Debug\net8.0-windows\Lab5-19.dll
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\bin\Debug\net8.0-windows\Lab5-19.pdb
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\obj\Debug\net8.0-windows\Lab5-19.dll
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\obj\Debug\net8.0-windows\refint\Lab5-19.dll
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\obj\Debug\net8.0-windows\Lab5-19.pdb
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\obj\Debug\net8.0-windows\Lab5-19.genruntimeconfig.cache
+C:\Users\Enoteg\source\repos\Lab5-19\Lab5-19\obj\Debug\net8.0-windows\ref\Lab5-19.dll

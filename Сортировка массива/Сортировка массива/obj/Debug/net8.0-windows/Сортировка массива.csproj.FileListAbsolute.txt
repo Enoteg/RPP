@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\bin\Debug\net8.0-windows\Сортировка массива.exe
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\bin\Debug\net8.0-windows\Сортировка массива.deps.json
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\bin\Debug\net8.0-windows\Сортировка массива.runtimeconfig.json
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\bin\Debug\net8.0-windows\Сортировка массива.dll
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\bin\Debug\net8.0-windows\Сортировка массива.pdb
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\obj\Debug\net8.0-windows\Сортировка_массива.Form1.resources
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\obj\Debug\net8.0-windows\Сортировка массива.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\obj\Debug\net8.0-windows\Сортировка массива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\obj\Debug\net8.0-windows\Сортировка массива.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\obj\Debug\net8.0-windows\Сортировка массива.AssemblyInfo.cs
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\obj\Debug\net8.0-windows\Сортировка массива.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\obj\Debug\net8.0-windows\Сортировка массива.dll
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\obj\Debug\net8.0-windows\refint\Сортировка массива.dll
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\obj\Debug\net8.0-windows\Сортировка массива.pdb
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\obj\Debug\net8.0-windows\Сортировка массива.genruntimeconfig.cache
+C:\Users\Student\Documents\Сафронова пинб-21\Сортировка массива\Сортировка массива\obj\Debug\net8.0-windows\ref\Сортировка массива.dll

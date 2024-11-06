@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\bin\Debug\net8.0-windows\Массив, как коллекция строк.exe
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\bin\Debug\net8.0-windows\Массив, как коллекция строк.deps.json
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\bin\Debug\net8.0-windows\Массив, как коллекция строк.runtimeconfig.json
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\bin\Debug\net8.0-windows\Массив, как коллекция строк.dll
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\bin\Debug\net8.0-windows\Массив, как коллекция строк.pdb
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\obj\Debug\net8.0-windows\Массив__как_коллекция_строк.Form1.resources
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\obj\Debug\net8.0-windows\Массив, как коллекция строк.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\obj\Debug\net8.0-windows\Массив, как коллекция строк.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\obj\Debug\net8.0-windows\Массив, как коллекция строк.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\obj\Debug\net8.0-windows\Массив, как коллекция строк.AssemblyInfo.cs
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\obj\Debug\net8.0-windows\Массив, как коллекция строк.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\obj\Debug\net8.0-windows\Массив, как коллекция строк.dll
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\obj\Debug\net8.0-windows\refint\Массив, как коллекция строк.dll
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\obj\Debug\net8.0-windows\Массив, как коллекция строк.pdb
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\obj\Debug\net8.0-windows\Массив, как коллекция строк.genruntimeconfig.cache
+C:\Users\Student\Documents\Сафронова пинб-21\Массив, как коллекция строк\Массив, как коллекция строк\obj\Debug\net8.0-windows\ref\Массив, как коллекция строк.dll

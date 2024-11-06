@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\bin\Debug\net8.0-windows\Список покупок.exe
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\bin\Debug\net8.0-windows\Список покупок.deps.json
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\bin\Debug\net8.0-windows\Список покупок.runtimeconfig.json
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\bin\Debug\net8.0-windows\Список покупок.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\bin\Debug\net8.0-windows\Список покупок.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\Список_покупок.Form1.resources
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\Список_покупок.Form2.resources
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\Список покупок.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\Список покупок.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\Список покупок.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\Список покупок.AssemblyInfo.cs
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\Список покупок.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\Список покупок.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\refint\Список покупок.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\Список покупок.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\Список покупок.genruntimeconfig.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\Список покупок\Список покупок\obj\Debug\net8.0-windows\ref\Список покупок.dll

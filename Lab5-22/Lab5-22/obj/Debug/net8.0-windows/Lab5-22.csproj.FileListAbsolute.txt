@@ -1,0 +1,16 @@
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\bin\Debug\net8.0-windows\Lab5-22.exe
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\bin\Debug\net8.0-windows\Lab5-22.deps.json
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\bin\Debug\net8.0-windows\Lab5-22.runtimeconfig.json
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\bin\Debug\net8.0-windows\Lab5-22.dll
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\bin\Debug\net8.0-windows\Lab5-22.pdb
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\obj\Debug\net8.0-windows\Lab5_22.Form1.resources
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\obj\Debug\net8.0-windows\Lab5-22.csproj.GenerateResource.cache
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\obj\Debug\net8.0-windows\Lab5-22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\obj\Debug\net8.0-windows\Lab5-22.AssemblyInfoInputs.cache
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\obj\Debug\net8.0-windows\Lab5-22.AssemblyInfo.cs
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\obj\Debug\net8.0-windows\Lab5-22.csproj.CoreCompileInputs.cache
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\obj\Debug\net8.0-windows\Lab5-22.dll
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\obj\Debug\net8.0-windows\refint\Lab5-22.dll
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\obj\Debug\net8.0-windows\Lab5-22.pdb
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\obj\Debug\net8.0-windows\Lab5-22.genruntimeconfig.cache
+C:\Users\Enoteg\source\repos\Lab5-22\Lab5-22\obj\Debug\net8.0-windows\ref\Lab5-22.dll
