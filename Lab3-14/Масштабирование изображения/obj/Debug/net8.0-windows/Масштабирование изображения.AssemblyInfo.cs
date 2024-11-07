@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Масштабирование изображения")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7fbdd93e3c2ecd586c5af36b2c1de4dd0846a39")]
 [assembly: System.Reflection.AssemblyProductAttribute("Масштабирование изображения")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Масштабирование изображения")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

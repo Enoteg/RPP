@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\KlassAbstract\KlassAbstract\obj\Debug\KlassAbstract.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\KlassAbstract\KlassAbstract\obj\Debug\KlassAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\KlassAbstract\KlassAbstract\bin\Debug\KlassAbstract.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\KlassAbstract\KlassAbstract\bin\Debug\KlassAbstract.pdb
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\KlassAbstract\KlassAbstract\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\KlassAbstract\KlassAbstract\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\KlassAbstract\KlassAbstract\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\KlassAbstract\KlassAbstract\obj\Debug\KlassAbs.2B444D68.Up2Date
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\KlassAbstract\KlassAbstract\obj\Debug\KlassAbstract.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\KlassAbstract\KlassAbstract\obj\Debug\KlassAbstract.pdb

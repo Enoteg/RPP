@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\bin\Debug\net8.0-windows\Lab5Sam3.exe
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\bin\Debug\net8.0-windows\Lab5Sam3.deps.json
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\bin\Debug\net8.0-windows\Lab5Sam3.runtimeconfig.json
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\bin\Debug\net8.0-windows\Lab5Sam3.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\bin\Debug\net8.0-windows\Lab5Sam3.pdb
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\Lab5Sam3.Form1.resources
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\Lab5Sam3.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\Lab5Sam3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\Lab5Sam3.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\Lab5Sam3.AssemblyInfo.cs
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\Lab5Sam3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\Lab5Sam3.sourcelink.json
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\Lab5Sam3.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\refint\Lab5Sam3.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\Lab5Sam3.pdb
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\Lab5Sam3.genruntimeconfig.cache
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab5Sam3\Lab5Sam3\obj\Debug\net8.0-windows\ref\Lab5Sam3.dll

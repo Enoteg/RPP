@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\\u0418\u0441\u0430\u0435\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0418\u041D\u0431-211\\Lab5Sam2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BF8939-C918-4877-BE7B-2713EF619A48}|Lab5Sam2\\Lab5Sam2.csproj|c:\\users\\student\\desktop\\\u0438\u0441\u0430\u0435\u0432 \u0441\u0435\u0440\u0433\u0435\u0439 \u043F\u0438\u043D\u0431-211\\lab5sam2\\lab5sam2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8BF8939-C918-4877-BE7B-2713EF619A48}|Lab5Sam2\\Lab5Sam2.csproj|solutionrelative:lab5sam2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BF8939-C918-4877-BE7B-2713EF619A48}|Lab5Sam2\\Lab5Sam2.csproj|c:\\users\\student\\desktop\\\u0438\u0441\u0430\u0435\u0432 \u0441\u0435\u0440\u0433\u0435\u0439 \u043F\u0438\u043D\u0431-211\\lab5sam2\\lab5sam2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BF8939-C918-4877-BE7B-2713EF619A48}|Lab5Sam2\\Lab5Sam2.csproj|solutionrelative:lab5sam2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\\u0418\u0441\u0430\u0435\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0418\u041D\u0431-211\\Lab5Sam2\\Lab5Sam2\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab5Sam2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\\u0418\u0441\u0430\u0435\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0418\u041D\u0431-211\\Lab5Sam2\\Lab5Sam2\\Form1.cs",
+              "RelativeToolTip": "Lab5Sam2\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:30:44.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\\u0418\u0441\u0430\u0435\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0418\u041D\u0431-211\\Lab5Sam2\\Lab5Sam2\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab5Sam2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\\u0418\u0441\u0430\u0435\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0418\u041D\u0431-211\\Lab5Sam2\\Lab5Sam2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Lab5Sam2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:25:48.144Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

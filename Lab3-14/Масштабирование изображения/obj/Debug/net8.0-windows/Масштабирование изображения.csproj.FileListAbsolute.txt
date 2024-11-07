@@ -32,3 +32,21 @@ C:\Users\Enoteg\source\repos\Lab3-14\Масштабирование изобра
 C:\Users\Enoteg\source\repos\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование изображения.pdb
 C:\Users\Enoteg\source\repos\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование изображения.genruntimeconfig.cache
 C:\Users\Enoteg\source\repos\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\ref\Масштабирование изображения.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\bin\Debug\net8.0-windows\Масштабирование изображения.exe
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\bin\Debug\net8.0-windows\Масштабирование изображения.deps.json
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\bin\Debug\net8.0-windows\Масштабирование изображения.runtimeconfig.json
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\bin\Debug\net8.0-windows\Масштабирование изображения.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\bin\Debug\net8.0-windows\Масштабирование изображения.pdb
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование_изображения.Form1.resources
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование_изображения.Properties.Resources.resources
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование изображения.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование изображения.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование изображения.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование изображения.AssemblyInfo.cs
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование изображения.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование изображения.sourcelink.json
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование изображения.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\refint\Масштабирование изображения.dll
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование изображения.pdb
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\Масштабирование изображения.genruntimeconfig.cache
+C:\Users\Student\Desktop\Исаев Сергей ПИНб-211\Lab3-14\Масштабирование изображения\obj\Debug\net8.0-windows\ref\Масштабирование изображения.dll
